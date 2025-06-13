@@ -39,7 +39,7 @@ Instale as dependências utilizando:
 pip install -r requirements.txt
 ```
 
-## Passo a passo (Se oo modelo já está treinado siga direto para o passo 4)
+## Passo a passo (Se o modelo já está treinado siga direto para o passo 4)
 
 ### 1. Adicione os arquivos de entrada
 
