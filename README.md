@@ -39,7 +39,7 @@ Instale as dependências utilizando:
 pip install -r requirements.txt
 ```
 
-## Passo a passo
+## Passo a passo (Se oo modelo já está treinado siga direto para o passo 4)
 
 ### 1. Adicione os arquivos de entrada
 
@@ -57,7 +57,7 @@ python preprocess_dataset.py
 python train_model.py
 ```
 
-### 4. Executar a API
+### 4. Executar a API (Inicie daqui caso modelo ja esteja treinado)
 
 ```bash
 uvicorn app.main:app --reload
